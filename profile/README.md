@@ -1,6 +1,6 @@
 # JavaScript Reverse Engineering Infrastructure
 
-![img](./bak.README.assets/bf3ea62467da4aef8bcf3f2c8fd93a0f.jpg)
+![image-20241024220755240](./README.assets/image-20241024220755240.png)
 
 # 我们的愿景
 
