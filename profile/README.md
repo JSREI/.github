@@ -10,7 +10,7 @@
 
 # 逆向技术交流群
 
-扫码加入逆向技术交流群：
+扫码加入逆向技术微信交流群：
 
 <img src="https://cdn.jsdelivr.net/gh/JSREI/.github/profile/README.assets/image-20241016230653669.png" style="width: 200px">
 
