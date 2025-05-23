@@ -1,5 +1,7 @@
 # JavaScript Reverse Engineering Infrastructure
 
+中文 | [English](README_en.md)
+
 ![image-20241024220755240](https://cdn.jsdelivr.net/gh/JSREI/.github/profile/README.assets/image-20241024220755240.png)
 
 # 我们的愿景
