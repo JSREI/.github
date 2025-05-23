@@ -24,7 +24,7 @@
 
 [点此](https://qm.qq.com/q/YfdB3w3OEY)扫码加入QQ交流群：
 
-<img src="https://cdn.jsdelivr.net/gh/JSREI/.github/profile/README.assets/jsrei-qq-group.png" style="width: 200px">
+<img src="https://cdn.jsdelivr.net/gh/JSREI/.github/profile/README.assets/jsrei-qq-group.jpg" style="width: 200px">
 
 ## TG 
 
